@@ -1,4 +1,4 @@
 # Learning
 This is my first repository.
 <br>
-Author - Ankit Balyan
+Author - Ankit kumar
